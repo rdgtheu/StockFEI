@@ -1,5 +1,7 @@
 # StockFEI
-## Repo para Projeto StockFEI
-<p>Esta plataforma será chamada de StockFEI: o DealBroker e o Market
-Para mais informações, acessar a <a href="https://github.com/rdgtheu/StockFEI/wiki">Wiki</a>
-<img src="https://stickers.wiki/static/stickers/ummissa4/file_788616.gif" alt="Pepe" />
+##  Repo para o Projeto 2 de Modelagem
+<p>Esta plataforma é responsável pela iteração com os clientes e armazenamento das contas dividida em dois sistemas: o DealBroker e o Market
+   <br/>
+<img src="https://c.tenor.com/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif" alt="Pepe" />
+   <br/>
+Para mais informações, acessar a <a href="https://github.com/rdgtheu/Modelagem-com-UML/wiki">Wiki</a>
