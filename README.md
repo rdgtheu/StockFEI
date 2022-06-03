@@ -4,4 +4,4 @@
    <br/>
 <img src="https://c.tenor.com/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif" alt="Pepe" />
    <br/>
-Para mais informações, acessar a <a href="https://github.com/rdgtheu/Modelagem-com-UML/wiki">Wiki</a>
+Para mais informações, acessar a <a href="https://github.com/rdgtheu/StockFEI/wiki">Wiki</a>
